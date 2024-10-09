@@ -12,7 +12,6 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
-//aspas duplas apertar shift+' uma vez e em seguida apertar o espaço
 @Entity
 @Table(name = "TB_USERS")
 @Data
